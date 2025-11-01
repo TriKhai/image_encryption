@@ -1,0 +1,33 @@
+
+# --- Python environment ---
+venv/
+.venv/
+env/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- Node / React ---
+node_modules/
+dist/
+build/
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs & Temp files ---
+*.log
+*.tmp
+
+# --- Cache ---
+.cache/
+.mypy_cache/
+.pytest_cache/
